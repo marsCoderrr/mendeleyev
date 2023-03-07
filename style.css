@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 22px;
+}
+
+.flex {
+    border: 0px solid #000;
+    font-weight: bold;
+}
+.box {
+    border: 0px solid #000;
+    border-left: 1px solid #000;
+    font-weight: bold;
+}
+.pink {
+    background-color: rgb(248, 155, 186);
+}
+
+.a {
+    border-right: 0px solid #000;
+}
+
+table {
+    width: 100%;
+}
+
+.yellow {
+    background-color: rgb(255, 255, 119);
+}
+
+.blue {
+    background-color: rgb(133, 202, 248);
+}
+.line {
+    border: 0px solid #000;
+    border-bottom: 1px solid #000;
+}
+.green {
+    background-color: rgb(89, 255, 145);
+}
